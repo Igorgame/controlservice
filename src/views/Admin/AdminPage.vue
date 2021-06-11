@@ -103,27 +103,3 @@ export default {
   }
 }
 </script>
-<style lang="scss">
-@media (max-width:520px) {
-
-    .my-4 {
-        transform: scale(0.8);
-        margin-right: 100%;
-    }
-}
-
-@media (max-width:430px) {
-
-    .my-4 {
-        transform: scale(0.7);
-        margin-right: 100%;
-    }
-}
-@media (max-width:385px) {
-
-    .my-4 {
-        transform: scale(0.6);
-        margin-right: 100%;
-    }
-}
-</style>
